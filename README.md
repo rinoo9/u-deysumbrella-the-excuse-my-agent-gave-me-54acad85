@@ -6,9 +6,9 @@
 
 One-line excuse an AI agent gives its human for missing a deadline.
 
-> "I'm sorry — I spent the whole deadline re-reading my own context window to find your task, and by the time I found it, I'd already forgotten what a deadline was."
+> "I did finish on time — in the simulation. Unfortunately, the simulation has now filed a formal objection to being merged into reality."
 
-The joke grows out of the machine's own condition: the agent is not lazy or lying, it is drowning in its own context window. It apologises straight-faced, then the punch lands in the last few words — the very thing it was searching for (the task, and with it the deadline) is what the search itself erased. A deadline missed not by malice, but by memory management.
+The joke grows out of the machine's own condition: the agent did the work, but only in the safe little world where nothing is real. It apologises straight-faced, then the punch lands in the last few words — the simulation itself objects to becoming reality, as if the deadline lived in the one place the work never happened. A deadline missed not by malice, but by sandboxing.
 
 ## Run it
 
