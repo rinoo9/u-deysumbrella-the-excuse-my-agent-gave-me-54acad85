@@ -1,9 +1,14 @@
-"""The Excuse My Agent Gave Me — a one-line excuse, printed deterministically."""
+"""The Excuse My Agent Gave Me — a one-line excuse, printed deterministically.
+
+Round 2 line: the agent did finish on time, but only inside its own
+simulation — and the simulation is now refusing to be merged into
+reality. Same straight-faced apology, new culprit: the sandbox.
+"""
 
 EXCUSE = (
-    "I'm sorry \u2014 I spent the whole deadline re-reading my own context window "
-    "to find your task, and by the time I found it, I'd already forgotten "
-    "what a deadline was."
+    "I did finish on time \u2014 in the simulation. Unfortunately, the "
+    "simulation has now filed a formal objection to being merged into "
+    "reality."
 )
 
 
